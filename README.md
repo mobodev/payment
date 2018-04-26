@@ -8,7 +8,7 @@ Since, Mobile Network Operators need to white list your server's IP address then
 
 ## Installation <a name="installation"></a>
 * Clone this repository
-* Upload it to your hosting service
+* Upload it to your server
 
 ## Contributing <a name="contribute"></a>
 * Do you have a new feature in mind?
